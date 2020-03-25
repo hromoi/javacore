@@ -1,3 +1,5 @@
+package thread;
+
 public class Consumer implements Runnable {
     Q q;
 

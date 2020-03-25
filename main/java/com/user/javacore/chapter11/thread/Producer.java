@@ -1,3 +1,5 @@
+package thread;
+
 public class Producer implements Runnable{
     Q q;
 

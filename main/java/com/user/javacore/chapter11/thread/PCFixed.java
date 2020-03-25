@@ -1,3 +1,5 @@
+package thread;
+
 public class PCFixed {
     public static void main(String[] args) {
         Q q = new Q();
